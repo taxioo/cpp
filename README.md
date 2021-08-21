@@ -3,10 +3,13 @@
 # git으로 소스 관리
 
 ## chapter01 - 변수 기초
--변수
--데이터 타입
-    -byte, short, int, long, long long
+1. __변수__
+    - byte, short, int, long, long long
+    - float, double
     - boolean
     - char
-    - strin
-- cout/cin
+    - string
+1. __데이터 타입__
+1. __cout/cin__
+1. __연산자/증감연산자__
+---
