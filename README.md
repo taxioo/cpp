@@ -19,3 +19,11 @@
 1. __if 문/switch문__
 1. __while/do whild 문__
 1. __for 문__
+---
+## chapter03
+
+call by value - 원본에 영향X
+call by reference - 원본에 영향O
+-> 변수의 데이터 타입에 의해
+int, float, bool -> call by value
+->나머지 모두(레퍼런스) = call by reference
